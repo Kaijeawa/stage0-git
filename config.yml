@@ -1,0 +1,9 @@
+name: shop-api
+debug: false
+server:
+  port: 5000
+  host: 127.0.0.1
+regions:
+  - TH
+  - KR
+  - "NO"
